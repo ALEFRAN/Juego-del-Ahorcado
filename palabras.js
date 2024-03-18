@@ -1,0 +1,1 @@
+const words = ['Clavita','Uruto','Gingercita','Topsica','Nert','Bendi','Mimir','Orteada','Densear','Piedralunga','Coloradita','Terquita','Culona','Eutanasia','Doparti','Tapile','Bandida','Talope','Wey','Flequillo']
